@@ -1,0 +1,35 @@
+table thead {
+    color: white;
+}
+table tbody {
+    color: white;
+}
+.navbar a{
+    color: #FFFFFF;
+}
+.navbar {
+    color: #FFFFFF;
+}
+.card-main {
+    margin-top: 100px;
+    color: black        ;
+}
+/* form{
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+h1.pesan{
+    margin-top: 100px;
+    color: #FFFFFF;
+} */
+.container{
+    margin-top: 100px;
+    color: #FFFFFF;
+}
+
+.img-kamar{
+    width: 40vh;
+}
+.img-fashot{
+    width: 40vh;
+}
